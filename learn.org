@@ -1,5 +1,5 @@
 
-
+Learning Note
 
 * Linux
 ** vim
@@ -7,24 +7,24 @@
 ** Github
 ** Gitlab
 * Docker
-* ---------------------------------Emacs
+* Emacs
 ** File
 *** save: C-x C-s
 ** Editing
-*** C-w                      cut
-*** M-w                      copy
-*** C-y                      paste
-*** C-k                      cut a line
-*** C-/                      undo
-*** C-shf-/                  redo
-*** C-<SPC>                  mark current position
-*** C-X C-P                  select whole page
-*** C-u n command            (n, repeat-count)
+*** C-w                     cut
+*** M-w                     copy
+*** C-y                     paste
+*** C-k                     cut a line
+*** C-/                     undo
+*** C-shf-/                 redo
+*** C-<SPC>                 mark current position
+*** C-X C-P                 select whole page
+*** C-u n command           (n, repeat-count)
 
 ** Navigation
-*** C-x +/-       Change fond size
-*** C-x 1/2/3/4   Sprit window
-*** C-x o         Jump to other window
+*** C-x +/-                 Change fond size
+*** C-x 1/2/3/4             Sprit window
+*** C-x o                   Jump to other window
 ** Search
 *** Basic Rules
     - if the typed characters are captal low, Caps sensitive off
@@ -32,8 +32,7 @@
 ** Increasing Search   
 *** C-s                       Forward search(repeat C-s or <delback>, step the next/previous result one by one)
 *** C-r                       Backward search
-* ---------------------------------Flutter
+* Flutter
 
 * Testing
-  12*********************************
-@@@@@@@@@@@@@@@@@@@@@@
+
