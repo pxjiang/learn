@@ -1,18 +1,29 @@
-Vim Note
+Vim and Markdown Note
 
-# File/mode
+*******
+Tables of contents  
+ 1. [Vim Tutorial](#vimtutorial)
+ 1. [Markdown Tutorial](#markdown)
+
+*******
+<div id='vimtutorial'/>  
+
+
+# Vim Tutorial
+
+## File/mode
 * insert - i
 * normal mode - esc
 * save - :w
 * save and exit - :x
 * exit without save :q!
 
-# Vim-note
+## Vim-note
 * folding header - za
 * jump to another note - gf
 
 
-# Editing
+## Editing
 * delete line - dd
 * undo - u
 * redo - ctr+u
@@ -20,24 +31,20 @@ Vim Note
 * copy - y
 * paste - p
 
-# Navigatoin
+## Navigatoin
 * jump to line - :4 (jump to line 4)
 
-# Search
+## Search
 * search keyworld - /keyworld 
 * next search  - n
 
 
-# Testing area
+## Testing area
 
-* automatically based on the title.
-* automatically based on the title.
+*******
+<div id='markdown'/>  
 
-1. utomatically based on the title.
-1. based on the title.
-2. sasa 
-      ◦ gk
-## based on the title.
-automatically based on the title.
+# Markdown
 
 
+******
