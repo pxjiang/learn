@@ -1,4 +1,4 @@
-Vim and Markdown Note
+# Vim and Markdown Note
 
 *******
 Tables of contents  
@@ -9,21 +9,21 @@ Tables of contents
 <div id='vimtutorial'/>  
 
 
-# Vim Tutorial
+## Vim Tutorial
 
-## File/mode
+### File/mode
 * insert - i
 * normal mode - esc
 * save - :w
 * save and exit - :x
 * exit without save :q!
 
-## Vim-note
+### Vim-note
 * folding header - za
 * jump to another note - gf
 
 
-## Editing
+### Editing
 * delete line - dd
 * undo - u
 * redo - ctr+u
@@ -31,20 +31,20 @@ Tables of contents
 * copy - y
 * paste - p
 
-## Navigatoin
+### Navigatoin
 * jump to line - :4 (jump to line 4)
 
-## Search
+### Search
 * search keyworld - /keyworld 
 * next search  - n
 
 
-## Testing area
+### Testing area
 
 *******
 <div id='markdown'/>  
 
-# Markdown
+## Markdown
 
 
-******
+****
